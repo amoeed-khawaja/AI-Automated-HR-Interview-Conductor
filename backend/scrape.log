@@ -1,0 +1,668 @@
+2025-05-30 18:52:19,536 - WARNING -  * Debugger is active!
+2025-05-30 18:52:19,541 - INFO -  * Debugger PIN: 908-572-493
+2025-05-30 18:54:33,272 - INFO -  * Detected change in 'C:\\Users\\moeed\\flask_dashboard\\backend\\app.py', reloading
+2025-05-30 18:54:35,403 - WARNING -  * Debugger is active!
+2025-05-30 18:54:35,410 - INFO -  * Debugger PIN: 908-572-493
+2025-05-30 18:54:38,337 - INFO - LINKEDIN URL: https://www.linkedin.com/in/abdul-moeed-khawaja/
+2025-05-30 18:54:49,156 - INFO - NAME: Abdul Moeed Khawaja
+2025-05-30 18:54:49,180 - INFO - 127.0.0.1 - - [30/May/2025 18:54:49] "POST /submit HTTP/1.1" 200 -
+2025-05-30 19:41:29,879 - INFO -  * Detected change in 'C:\\Users\\moeed\\flask_dashboard\\backend\\app.py', reloading
+2025-05-30 19:41:31,971 - WARNING -  * Debugger is active!
+2025-05-30 19:41:31,980 - INFO -  * Debugger PIN: 908-572-493
+2025-05-30 19:42:30,214 - INFO -  * Detected change in 'C:\\Users\\moeed\\flask_dashboard\\backend\\app.py', reloading
+2025-05-30 19:42:32,131 - WARNING -  * Debugger is active!
+2025-05-30 19:42:32,140 - INFO -  * Debugger PIN: 908-572-493
+2025-05-30 21:31:28,902 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-30 21:31:28,904 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-30 21:31:28,907 - INFO -  * Restarting with stat
+2025-05-30 21:31:36,329 - WARNING -  * Debugger is active!
+2025-05-30 21:31:36,340 - INFO -  * Debugger PIN: 908-572-493
+2025-05-30 21:31:36,708 - INFO - 127.0.0.1 - - [30/May/2025 21:31:36] "GET / HTTP/1.1" 200 -
+2025-05-30 21:32:37,567 - INFO -  * Detected change in 'C:\\Users\\moeed\\flask_dashboard\\backend\\app.py', reloading
+2025-05-30 21:32:38,054 - INFO -  * Restarting with stat
+2025-05-30 21:32:39,785 - WARNING -  * Debugger is active!
+2025-05-30 21:32:39,794 - INFO -  * Debugger PIN: 908-572-493
+2025-05-30 21:32:40,482 - INFO - 127.0.0.1 - - [30/May/2025 21:32:40] "GET / HTTP/1.1" 200 -
+2025-05-30 21:32:45,511 - INFO - LINKEDIN URL: https://www.linkedin.com/in/abdul-moeed-khawaja/
+2025-05-30 21:32:56,763 - INFO - NAME: Name not found
+2025-05-30 21:32:56,765 - INFO - 127.0.0.1 - - [30/May/2025 21:32:56] "POST /submit HTTP/1.1" 200 -
+2025-05-30 21:33:16,979 - INFO -  * Detected change in 'C:\\Users\\moeed\\flask_dashboard\\backend\\app.py', reloading
+2025-05-30 21:33:17,106 - INFO -  * Restarting with stat
+2025-05-30 21:33:19,236 - WARNING -  * Debugger is active!
+2025-05-30 21:33:19,245 - INFO -  * Debugger PIN: 908-572-493
+2025-05-30 21:33:19,298 - INFO - 127.0.0.1 - - [30/May/2025 21:33:19] "GET / HTTP/1.1" 200 -
+2025-05-30 21:33:35,372 - INFO -  * Detected change in 'C:\\Users\\moeed\\flask_dashboard\\backend\\app.py', reloading
+2025-05-30 21:33:35,492 - INFO -  * Restarting with stat
+2025-05-30 21:33:37,438 - WARNING -  * Debugger is active!
+2025-05-30 21:33:37,447 - INFO -  * Debugger PIN: 908-572-493
+2025-05-30 21:33:37,498 - INFO - 127.0.0.1 - - [30/May/2025 21:33:37] "GET / HTTP/1.1" 200 -
+2025-05-30 21:33:41,286 - INFO - 127.0.0.1 - - [30/May/2025 21:33:41] "GET / HTTP/1.1" 200 -
+2025-05-30 21:33:45,929 - INFO -  * Detected change in 'C:\\Users\\moeed\\flask_dashboard\\backend\\app.py', reloading
+2025-05-30 21:33:46,060 - INFO -  * Restarting with stat
+2025-05-30 21:33:48,283 - WARNING -  * Debugger is active!
+2025-05-30 21:33:48,289 - INFO -  * Debugger PIN: 908-572-493
+2025-05-30 21:33:48,336 - INFO - 127.0.0.1 - - [30/May/2025 21:33:48] "GET / HTTP/1.1" 200 -
+2025-05-30 21:33:53,168 - INFO - LINKEDIN URL: https://www.linkedin.com/in/abdul-moeed-khawaja/
+2025-05-30 21:33:57,826 - INFO - 127.0.0.1 - - [30/May/2025 21:33:57] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-30 21:34:04,298 - INFO - NAME: Abdul Moeed Khawaja
+2025-05-30 21:34:04,303 - INFO - 127.0.0.1 - - [30/May/2025 21:34:04] "POST /submit HTTP/1.1" 200 -
+2025-05-30 21:38:56,403 - INFO -  * Detected change in 'C:\\Users\\moeed\\flask_dashboard\\backend\\app.py', reloading
+2025-05-30 21:38:56,493 - INFO -  * Restarting with stat
+2025-05-30 21:38:58,416 - WARNING -  * Debugger is active!
+2025-05-30 21:38:58,425 - INFO -  * Debugger PIN: 908-572-493
+2025-05-30 21:39:06,046 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-30 21:39:06,047 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-30 21:39:06,049 - INFO -  * Restarting with stat
+2025-05-30 21:39:07,461 - WARNING -  * Debugger is active!
+2025-05-30 21:39:07,469 - INFO -  * Debugger PIN: 908-572-493
+2025-05-30 21:39:11,553 - INFO - 127.0.0.1 - - [30/May/2025 21:39:11] "GET / HTTP/1.1" 200 -
+2025-05-30 21:39:18,975 - INFO - 127.0.0.1 - - [30/May/2025 21:39:18] "GET / HTTP/1.1" 200 -
+2025-05-30 21:39:19,045 - INFO - 127.0.0.1 - - [30/May/2025 21:39:19] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-30 21:39:24,527 - INFO -  * Detected change in 'C:\\Users\\moeed\\flask_dashboard\\backend\\app.py', reloading
+2025-05-30 21:39:24,670 - INFO -  * Restarting with stat
+2025-05-30 21:39:26,630 - WARNING -  * Debugger is active!
+2025-05-30 21:39:26,641 - INFO -  * Debugger PIN: 908-572-493
+2025-05-30 21:39:26,875 - INFO - 127.0.0.1 - - [30/May/2025 21:39:26] "GET / HTTP/1.1" 200 -
+2025-05-30 21:39:31,802 - INFO - LINKEDIN URL: https://www.linkedin.com/in/abdul-moeed-khawaja/
+2025-05-30 21:39:37,341 - INFO - 127.0.0.1 - - [30/May/2025 21:39:37] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-30 21:39:55,306 - INFO - NAME: Name not found
+2025-05-30 21:39:55,309 - INFO - 127.0.0.1 - - [30/May/2025 21:39:55] "POST /submit HTTP/1.1" 200 -
+2025-05-30 21:40:08,195 - INFO - 127.0.0.1 - - [30/May/2025 21:40:08] "GET / HTTP/1.1" 200 -
+2025-05-30 21:40:08,258 - INFO - 127.0.0.1 - - [30/May/2025 21:40:08] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-30 21:40:15,300 - INFO - LINKEDIN URL: https://www.linkedin.com/in/abdul-moeed-khawaja/
+2025-05-30 21:41:01,809 - INFO - NAME: Abdul Moeed Khawaja
+2025-05-30 21:41:01,828 - INFO - 127.0.0.1 - - [30/May/2025 21:41:01] "POST /submit HTTP/1.1" 200 -
+2025-05-30 21:44:32,729 - INFO -  * Detected change in 'C:\\Users\\moeed\\flask_dashboard\\backend\\app.py', reloading
+2025-05-30 21:44:32,882 - INFO -  * Restarting with stat
+2025-05-30 21:44:34,987 - WARNING -  * Debugger is active!
+2025-05-30 21:44:34,994 - INFO -  * Debugger PIN: 908-572-493
+2025-05-30 21:44:35,052 - INFO - 127.0.0.1 - - [30/May/2025 21:44:35] "GET / HTTP/1.1" 200 -
+2025-05-30 21:44:35,090 - INFO - 127.0.0.1 - - [30/May/2025 21:44:35] "[33mGET /path_to_your_logo.png HTTP/1.1[0m" 404 -
+2025-05-30 21:44:35,115 - INFO - 127.0.0.1 - - [30/May/2025 21:44:35] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-30 21:45:33,492 - INFO -  * Detected change in 'C:\\Users\\moeed\\flask_dashboard\\backend\\app.py', reloading
+2025-05-30 21:45:33,618 - INFO -  * Restarting with stat
+2025-05-30 21:45:35,396 - WARNING -  * Debugger is active!
+2025-05-30 21:45:35,409 - INFO -  * Debugger PIN: 908-572-493
+2025-05-30 21:45:35,459 - INFO - 127.0.0.1 - - [30/May/2025 21:45:35] "GET / HTTP/1.1" 200 -
+2025-05-30 21:45:35,490 - INFO - 127.0.0.1 - - [30/May/2025 21:45:35] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-30 21:45:35,505 - INFO - 127.0.0.1 - - [30/May/2025 21:45:35] "[33mGET /backend/internova.png HTTP/1.1[0m" 404 -
+2025-05-30 21:45:51,248 - INFO -  * Detected change in 'C:\\Users\\moeed\\flask_dashboard\\backend\\app.py', reloading
+2025-05-30 21:45:51,374 - INFO -  * Restarting with stat
+2025-05-30 21:45:53,210 - WARNING -  * Debugger is active!
+2025-05-30 21:45:53,219 - INFO -  * Debugger PIN: 908-572-493
+2025-05-30 21:45:53,298 - INFO - 127.0.0.1 - - [30/May/2025 21:45:53] "GET / HTTP/1.1" 200 -
+2025-05-30 21:45:53,329 - INFO - 127.0.0.1 - - [30/May/2025 21:45:53] "[33mGET /backend/internova.png HTTP/1.1[0m" 404 -
+2025-05-30 21:45:53,344 - INFO - 127.0.0.1 - - [30/May/2025 21:45:53] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-30 21:46:28,080 - INFO -  * Detected change in 'C:\\Users\\moeed\\flask_dashboard\\backend\\app.py', reloading
+2025-05-30 21:46:28,159 - INFO -  * Restarting with stat
+2025-05-30 21:46:30,097 - WARNING -  * Debugger is active!
+2025-05-30 21:46:30,106 - INFO -  * Debugger PIN: 908-572-493
+2025-05-30 21:46:31,878 - INFO - 127.0.0.1 - - [30/May/2025 21:46:31] "GET / HTTP/1.1" 200 -
+2025-05-30 21:46:31,905 - INFO - 127.0.0.1 - - [30/May/2025 21:46:31] "[33mGET /internova.png HTTP/1.1[0m" 404 -
+2025-05-30 21:46:31,921 - INFO - 127.0.0.1 - - [30/May/2025 21:46:31] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-30 21:46:33,373 - INFO - 127.0.0.1 - - [30/May/2025 21:46:33] "GET / HTTP/1.1" 200 -
+2025-05-30 21:46:33,397 - INFO - 127.0.0.1 - - [30/May/2025 21:46:33] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-30 21:46:33,402 - INFO - 127.0.0.1 - - [30/May/2025 21:46:33] "[33mGET /internova.png HTTP/1.1[0m" 404 -
+2025-05-30 21:46:44,744 - INFO - 127.0.0.1 - - [30/May/2025 21:46:44] "GET / HTTP/1.1" 200 -
+2025-05-30 21:46:44,796 - INFO - 127.0.0.1 - - [30/May/2025 21:46:44] "[33mGET /internova.png HTTP/1.1[0m" 404 -
+2025-05-30 21:46:46,113 - INFO - 127.0.0.1 - - [30/May/2025 21:46:46] "GET / HTTP/1.1" 200 -
+2025-05-30 21:46:46,135 - INFO - 127.0.0.1 - - [30/May/2025 21:46:46] "[33mGET /internova.png HTTP/1.1[0m" 404 -
+2025-05-30 21:47:04,114 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-30 21:47:04,115 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-30 21:47:04,117 - INFO -  * Restarting with stat
+2025-05-30 21:47:05,799 - WARNING -  * Debugger is active!
+2025-05-30 21:47:05,808 - INFO -  * Debugger PIN: 908-572-493
+2025-05-30 21:47:08,833 - INFO - 127.0.0.1 - - [30/May/2025 21:47:08] "GET / HTTP/1.1" 200 -
+2025-05-30 21:47:08,925 - INFO - 127.0.0.1 - - [30/May/2025 21:47:08] "[33mGET /internova.png HTTP/1.1[0m" 404 -
+2025-05-30 21:48:19,184 - INFO -  * Detected change in 'C:\\Users\\moeed\\flask_dashboard\\backend\\app.py', reloading
+2025-05-30 21:48:19,301 - INFO -  * Restarting with stat
+2025-05-30 21:48:21,060 - WARNING -  * Debugger is active!
+2025-05-30 21:48:21,071 - INFO -  * Debugger PIN: 908-572-493
+2025-05-30 21:48:24,987 - INFO - 127.0.0.1 - - [30/May/2025 21:48:24] "GET / HTTP/1.1" 200 -
+2025-05-30 21:48:25,034 - INFO - 127.0.0.1 - - [30/May/2025 21:48:25] "[33mGET /internova.png HTTP/1.1[0m" 404 -
+2025-05-30 21:48:25,760 - INFO - 127.0.0.1 - - [30/May/2025 21:48:25] "GET / HTTP/1.1" 200 -
+2025-05-30 21:48:25,800 - INFO - 127.0.0.1 - - [30/May/2025 21:48:25] "[33mGET /internova.png HTTP/1.1[0m" 404 -
+2025-05-30 21:48:38,805 - INFO -  * Detected change in 'C:\\Users\\moeed\\flask_dashboard\\backend\\app.py', reloading
+2025-05-30 21:48:38,921 - INFO -  * Restarting with stat
+2025-05-30 21:49:00,982 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-30 21:49:00,982 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-30 21:49:00,985 - INFO -  * Restarting with stat
+2025-05-30 21:49:02,603 - WARNING -  * Debugger is active!
+2025-05-30 21:49:02,613 - INFO -  * Debugger PIN: 908-572-493
+2025-05-30 21:49:21,584 - INFO - 127.0.0.1 - - [30/May/2025 21:49:21] "GET / HTTP/1.1" 200 -
+2025-05-30 21:49:21,826 - INFO - 127.0.0.1 - - [30/May/2025 21:49:21] "[33mGET /internova.png HTTP/1.1[0m" 404 -
+2025-05-30 21:49:23,689 - INFO - 127.0.0.1 - - [30/May/2025 21:49:23] "GET / HTTP/1.1" 200 -
+2025-05-30 21:49:23,718 - INFO - 127.0.0.1 - - [30/May/2025 21:49:23] "[33mGET /internova.png HTTP/1.1[0m" 404 -
+2025-05-30 21:51:17,047 - INFO -  * Detected change in 'C:\\Users\\moeed\\flask_dashboard\\backend\\app.py', reloading
+2025-05-30 21:51:17,139 - INFO -  * Restarting with stat
+2025-05-30 21:51:18,813 - WARNING -  * Debugger is active!
+2025-05-30 21:51:18,818 - INFO -  * Debugger PIN: 908-572-493
+2025-05-30 21:51:20,968 - INFO -  * Detected change in 'C:\\Users\\moeed\\flask_dashboard\\backend\\app.py', reloading
+2025-05-30 21:51:21,077 - INFO -  * Restarting with stat
+2025-05-30 21:51:23,031 - WARNING -  * Debugger is active!
+2025-05-30 21:51:23,039 - INFO -  * Debugger PIN: 908-572-493
+2025-05-30 21:51:23,108 - INFO - 127.0.0.1 - - [30/May/2025 21:51:23] "GET / HTTP/1.1" 200 -
+2025-05-30 21:51:23,268 - INFO - 127.0.0.1 - - [30/May/2025 21:51:23] "GET /static/internova.png HTTP/1.1" 200 -
+2025-05-30 21:52:48,281 - INFO -  * Detected change in 'C:\\Users\\moeed\\flask_dashboard\\backend\\app.py', reloading
+2025-05-30 21:52:48,383 - INFO -  * Restarting with stat
+2025-05-30 21:52:50,270 - WARNING -  * Debugger is active!
+2025-05-30 21:52:50,277 - INFO -  * Debugger PIN: 908-572-493
+2025-05-30 21:52:53,361 - INFO - 127.0.0.1 - - [30/May/2025 21:52:53] "GET / HTTP/1.1" 200 -
+2025-05-30 21:52:53,566 - INFO - 127.0.0.1 - - [30/May/2025 21:52:53] "GET /static/internovabg.png HTTP/1.1" 200 -
+2025-05-30 21:53:16,738 - INFO -  * Detected change in 'C:\\Users\\moeed\\flask_dashboard\\backend\\app.py', reloading
+2025-05-30 21:53:16,817 - INFO -  * Restarting with stat
+2025-05-30 21:53:18,483 - WARNING -  * Debugger is active!
+2025-05-30 21:53:18,488 - INFO -  * Debugger PIN: 908-572-493
+2025-05-30 21:53:18,547 - INFO - 127.0.0.1 - - [30/May/2025 21:53:18] "GET / HTTP/1.1" 200 -
+2025-05-30 21:53:18,715 - INFO - 127.0.0.1 - - [30/May/2025 21:53:18] "[36mGET /static/internovabg.png HTTP/1.1[0m" 304 -
+2025-05-30 21:53:25,817 - INFO - 127.0.0.1 - - [30/May/2025 21:53:25] "GET /?linkedin=https://www.linkedin.com/in/abdul-moeed-khawaja/&resumeName=moeed HTTP/1.1" 200 -
+2025-05-30 21:53:25,882 - INFO - 127.0.0.1 - - [30/May/2025 21:53:25] "[36mGET /static/internovabg.png HTTP/1.1[0m" 304 -
+2025-05-30 21:53:31,852 - INFO - 127.0.0.1 - - [30/May/2025 21:53:31] "GET /?linkedin=https://www.linkedin.com/in/abdul-moeed-khawaja/&resumeName=moeed HTTP/1.1" 200 -
+2025-05-30 21:53:31,886 - INFO - 127.0.0.1 - - [30/May/2025 21:53:31] "[36mGET /static/internovabg.png HTTP/1.1[0m" 304 -
+2025-05-30 21:53:35,766 - INFO - 127.0.0.1 - - [30/May/2025 21:53:35] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-30 21:53:44,905 - INFO - 127.0.0.1 - - [30/May/2025 21:53:44] "GET /?linkedin=https://www.linkedin.com/in/abdul-moeed-khawaja/&resumeName=moeed HTTP/1.1" 200 -
+2025-05-30 21:53:44,950 - INFO - 127.0.0.1 - - [30/May/2025 21:53:44] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-30 21:53:44,952 - INFO - 127.0.0.1 - - [30/May/2025 21:53:44] "[36mGET /static/internovabg.png HTTP/1.1[0m" 304 -
+2025-05-30 21:56:47,262 - INFO -  * Detected change in 'C:\\Users\\moeed\\flask_dashboard\\backend\\linkedin_scraper.py', reloading
+2025-05-30 21:56:47,394 - INFO -  * Restarting with stat
+2025-05-30 21:56:49,460 - WARNING -  * Debugger is active!
+2025-05-30 21:56:49,467 - INFO -  * Debugger PIN: 908-572-493
+2025-05-30 21:57:21,312 - INFO -  * Detected change in 'C:\\Users\\moeed\\flask_dashboard\\backend\\app.py', reloading
+2025-05-30 21:57:21,408 - INFO -  * Restarting with stat
+2025-05-30 21:57:23,138 - WARNING -  * Debugger is active!
+2025-05-30 21:57:23,146 - INFO -  * Debugger PIN: 908-572-493
+2025-05-30 21:57:25,434 - INFO - 127.0.0.1 - - [30/May/2025 21:57:25] "GET / HTTP/1.1" 200 -
+2025-05-30 21:57:25,626 - INFO - 127.0.0.1 - - [30/May/2025 21:57:25] "[36mGET /static/internova.png HTTP/1.1[0m" 304 -
+2025-05-30 21:57:30,148 - INFO - 127.0.0.1 - - [30/May/2025 21:57:30] "GET /?linkedin=https://www.linkedin.com/in/abdul-moeed-khawaja/&resumeName=moeed HTTP/1.1" 200 -
+2025-05-30 21:57:30,207 - INFO - 127.0.0.1 - - [30/May/2025 21:57:30] "[36mGET /static/internova.png HTTP/1.1[0m" 304 -
+2025-05-30 21:57:46,448 - INFO -  * Detected change in 'C:\\Users\\moeed\\flask_dashboard\\backend\\app.py', reloading
+2025-05-30 21:57:46,560 - INFO -  * Restarting with stat
+2025-05-30 21:57:48,574 - WARNING -  * Debugger is active!
+2025-05-30 21:57:48,581 - INFO -  * Debugger PIN: 908-572-493
+2025-05-30 21:57:52,880 - INFO -  * Detected change in 'C:\\Users\\moeed\\flask_dashboard\\backend\\linkedin_scraper.py', reloading
+2025-05-30 21:57:52,959 - INFO -  * Restarting with stat
+2025-05-30 21:58:11,880 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-30 21:58:11,880 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-30 21:58:11,883 - INFO -  * Restarting with stat
+2025-05-30 21:58:13,323 - WARNING -  * Debugger is active!
+2025-05-30 21:58:13,331 - INFO -  * Debugger PIN: 908-572-493
+2025-05-30 21:58:20,913 - INFO - 127.0.0.1 - - [30/May/2025 21:58:20] "GET / HTTP/1.1" 200 -
+2025-05-30 21:58:25,187 - INFO - LINKEDIN URL: https://www.linkedin.com/in/abdul-moeed-khawaja/
+2025-05-30 21:58:29,445 - INFO - 127.0.0.1 - - [30/May/2025 21:58:29] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-30 21:58:39,875 - INFO - NAME: Abdul Moeed Khawaja
+2025-05-30 21:58:39,892 - INFO - 127.0.0.1 - - [30/May/2025 21:58:39] "POST /submit HTTP/1.1" 200 -
+2025-05-30 22:00:10,099 - INFO -  * Detected change in 'C:\\Users\\moeed\\flask_dashboard\\backend\\app.py', reloading
+2025-05-30 22:00:10,220 - INFO -  * Restarting with stat
+2025-05-30 22:00:12,090 - WARNING -  * Debugger is active!
+2025-05-30 22:00:12,096 - INFO -  * Debugger PIN: 908-572-493
+2025-05-30 22:00:12,152 - INFO - 127.0.0.1 - - [30/May/2025 22:00:12] "GET / HTTP/1.1" 200 -
+2025-05-30 22:00:12,317 - INFO - 127.0.0.1 - - [30/May/2025 22:00:12] "[36mGET /static/internovabg.png HTTP/1.1[0m" 304 -
+2025-05-30 22:00:22,691 - INFO -  * Detected change in 'C:\\Users\\moeed\\flask_dashboard\\backend\\app.py', reloading
+2025-05-30 22:00:22,804 - INFO -  * Restarting with stat
+2025-05-30 22:00:24,485 - WARNING -  * Debugger is active!
+2025-05-30 22:00:24,491 - INFO -  * Debugger PIN: 908-572-493
+2025-05-30 22:00:24,573 - INFO - 127.0.0.1 - - [30/May/2025 22:00:24] "GET / HTTP/1.1" 200 -
+2025-05-30 22:00:24,692 - INFO - 127.0.0.1 - - [30/May/2025 22:00:24] "[36mGET /static/internova.png HTTP/1.1[0m" 304 -
+2025-05-30 22:00:38,277 - INFO -  * Detected change in 'C:\\Users\\moeed\\flask_dashboard\\backend\\app.py', reloading
+2025-05-30 22:00:38,358 - INFO -  * Restarting with stat
+2025-05-30 22:00:40,023 - WARNING -  * Debugger is active!
+2025-05-30 22:00:40,029 - INFO -  * Debugger PIN: 908-572-493
+2025-05-30 22:01:17,127 - INFO -  * Detected change in 'C:\\Users\\moeed\\flask_dashboard\\backend\\app.py', reloading
+2025-05-30 22:01:17,210 - INFO -  * Restarting with stat
+2025-05-30 22:01:19,218 - WARNING -  * Debugger is active!
+2025-05-30 22:01:19,224 - INFO -  * Debugger PIN: 908-572-493
+2025-05-30 22:01:19,276 - INFO - 127.0.0.1 - - [30/May/2025 22:01:19] "GET / HTTP/1.1" 200 -
+2025-05-30 22:01:19,403 - INFO - 127.0.0.1 - - [30/May/2025 22:01:19] "[36mGET /static/internovabg.png HTTP/1.1[0m" 304 -
+2025-05-30 22:01:33,938 - INFO -  * Detected change in 'C:\\Users\\moeed\\flask_dashboard\\backend\\app.py', reloading
+2025-05-30 22:01:34,089 - INFO -  * Restarting with stat
+2025-05-30 22:01:35,824 - WARNING -  * Debugger is active!
+2025-05-30 22:01:35,833 - INFO -  * Debugger PIN: 908-572-493
+2025-05-30 22:01:35,923 - INFO - 127.0.0.1 - - [30/May/2025 22:01:35] "GET / HTTP/1.1" 200 -
+2025-05-30 22:01:36,051 - INFO - 127.0.0.1 - - [30/May/2025 22:01:36] "[36mGET /static/internovabg.png HTTP/1.1[0m" 304 -
+2025-05-30 22:03:10,480 - INFO -  * Detected change in 'C:\\Users\\moeed\\flask_dashboard\\backend\\app.py', reloading
+2025-05-30 22:03:10,592 - INFO -  * Restarting with stat
+2025-05-30 22:03:12,540 - WARNING -  * Debugger is active!
+2025-05-30 22:03:12,548 - INFO -  * Debugger PIN: 908-572-493
+2025-05-30 22:03:12,607 - INFO - 127.0.0.1 - - [30/May/2025 22:03:12] "GET / HTTP/1.1" 200 -
+2025-05-30 22:03:12,741 - INFO - 127.0.0.1 - - [30/May/2025 22:03:12] "[36mGET /static/internovabg.png HTTP/1.1[0m" 304 -
+2025-05-30 22:03:17,886 - INFO -  * Detected change in 'C:\\Users\\moeed\\flask_dashboard\\backend\\app.py', reloading
+2025-05-30 22:03:17,959 - INFO -  * Restarting with stat
+2025-05-30 22:03:19,667 - WARNING -  * Debugger is active!
+2025-05-30 22:03:19,681 - INFO -  * Debugger PIN: 908-572-493
+2025-05-30 22:03:19,771 - INFO - 127.0.0.1 - - [30/May/2025 22:03:19] "GET / HTTP/1.1" 200 -
+2025-05-30 22:03:19,895 - INFO - 127.0.0.1 - - [30/May/2025 22:03:19] "[36mGET /static/internovabg.png HTTP/1.1[0m" 304 -
+2025-05-30 22:03:40,691 - INFO -  * Detected change in 'C:\\Users\\moeed\\flask_dashboard\\backend\\app.py', reloading
+2025-05-30 22:03:40,769 - INFO -  * Restarting with stat
+2025-05-30 22:03:42,541 - WARNING -  * Debugger is active!
+2025-05-30 22:03:42,547 - INFO -  * Debugger PIN: 908-572-493
+2025-05-30 22:03:42,610 - INFO - 127.0.0.1 - - [30/May/2025 22:03:42] "GET / HTTP/1.1" 200 -
+2025-05-30 22:03:42,772 - INFO - 127.0.0.1 - - [30/May/2025 22:03:42] "[36mGET /static/internova.png HTTP/1.1[0m" 304 -
+2025-05-30 22:03:49,980 - INFO -  * Detected change in 'C:\\Users\\moeed\\flask_dashboard\\backend\\app.py', reloading
+2025-05-30 22:03:50,141 - INFO -  * Restarting with stat
+2025-05-30 22:03:52,222 - WARNING -  * Debugger is active!
+2025-05-30 22:03:52,232 - INFO -  * Debugger PIN: 908-572-493
+2025-05-30 22:03:52,284 - INFO - 127.0.0.1 - - [30/May/2025 22:03:52] "GET / HTTP/1.1" 200 -
+2025-05-30 22:03:52,405 - INFO - 127.0.0.1 - - [30/May/2025 22:03:52] "[36mGET /static/internovabg.png HTTP/1.1[0m" 304 -
+2025-05-30 22:05:01,458 - INFO -  * Detected change in 'C:\\Users\\moeed\\flask_dashboard\\backend\\app.py', reloading
+2025-05-30 22:05:01,571 - INFO -  * Restarting with stat
+2025-05-30 22:05:03,410 - WARNING -  * Debugger is active!
+2025-05-30 22:05:03,415 - INFO -  * Debugger PIN: 908-572-493
+2025-05-30 22:05:03,464 - INFO - 127.0.0.1 - - [30/May/2025 22:05:03] "GET / HTTP/1.1" 200 -
+2025-05-30 22:05:03,632 - INFO - 127.0.0.1 - - [30/May/2025 22:05:03] "[36mGET /static/internovabg.png HTTP/1.1[0m" 304 -
+2025-05-30 22:05:09,760 - INFO -  * Detected change in 'C:\\Users\\moeed\\flask_dashboard\\backend\\app.py', reloading
+2025-05-30 22:05:09,850 - INFO -  * Restarting with stat
+2025-05-30 22:05:11,396 - WARNING -  * Debugger is active!
+2025-05-30 22:05:11,408 - INFO -  * Debugger PIN: 908-572-493
+2025-05-30 22:05:11,462 - INFO - 127.0.0.1 - - [30/May/2025 22:05:11] "GET / HTTP/1.1" 200 -
+2025-05-30 22:05:11,596 - INFO - 127.0.0.1 - - [30/May/2025 22:05:11] "[36mGET /static/internovabg.png HTTP/1.1[0m" 304 -
+2025-05-30 22:05:20,255 - INFO - LINKEDIN URL: https://www.linkedin.com/in/abdul-moeed-khawaja/
+2025-05-30 22:05:31,228 - INFO - NAME: Abdul Moeed Khawaja
+2025-05-30 22:05:31,239 - INFO - 127.0.0.1 - - [30/May/2025 22:05:31] "POST /submit HTTP/1.1" 200 -
+2025-05-30 22:06:49,979 - INFO -  * Detected change in 'C:\\Users\\moeed\\flask_dashboard\\backend\\app.py', reloading
+2025-05-30 22:06:50,114 - INFO -  * Restarting with stat
+2025-05-30 22:06:52,031 - WARNING -  * Debugger is active!
+2025-05-30 22:06:52,043 - INFO -  * Debugger PIN: 908-572-493
+2025-05-30 22:06:52,452 - INFO - 127.0.0.1 - - [30/May/2025 22:06:52] "GET / HTTP/1.1" 200 -
+2025-05-30 22:06:52,628 - INFO - 127.0.0.1 - - [30/May/2025 22:06:52] "[36mGET /static/internovabg.png HTTP/1.1[0m" 304 -
+2025-05-30 22:06:54,036 - INFO - 127.0.0.1 - - [30/May/2025 22:06:54] "GET / HTTP/1.1" 200 -
+2025-05-30 22:06:54,075 - INFO - 127.0.0.1 - - [30/May/2025 22:06:54] "[36mGET /static/internovabg.png HTTP/1.1[0m" 304 -
+2025-05-30 22:06:54,935 - INFO - 127.0.0.1 - - [30/May/2025 22:06:54] "GET / HTTP/1.1" 200 -
+2025-05-30 22:06:54,973 - INFO - 127.0.0.1 - - [30/May/2025 22:06:54] "[36mGET /static/internovabg.png HTTP/1.1[0m" 304 -
+2025-05-30 22:07:40,436 - INFO -  * Detected change in 'C:\\Users\\moeed\\flask_dashboard\\backend\\app.py', reloading
+2025-05-30 22:07:40,522 - INFO -  * Restarting with stat
+2025-05-30 22:07:42,528 - WARNING -  * Debugger is active!
+2025-05-30 22:07:42,537 - INFO -  * Debugger PIN: 908-572-493
+2025-05-30 22:07:42,620 - INFO - 127.0.0.1 - - [30/May/2025 22:07:42] "GET / HTTP/1.1" 200 -
+2025-05-30 22:07:42,814 - INFO - 127.0.0.1 - - [30/May/2025 22:07:42] "[36mGET /static/internovabg.png HTTP/1.1[0m" 304 -
+2025-05-30 22:07:49,110 - INFO - LINKEDIN URL: https://www.linkedin.com/in/abdul-moeed-khawaja/
+2025-05-30 22:08:00,257 - INFO - 127.0.0.1 - - [30/May/2025 22:08:00] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-30 22:08:01,152 - INFO - NAME: Abdul Moeed Khawaja
+2025-05-30 22:08:01,163 - INFO - 127.0.0.1 - - [30/May/2025 22:08:01] "POST /submit HTTP/1.1" 200 -
+2025-05-30 22:19:44,351 - INFO -  * Detected change in 'C:\\Users\\moeed\\flask_dashboard\\backend\\interview_chrome.py', reloading
+2025-05-30 22:19:44,473 - INFO -  * Restarting with stat
+2025-05-30 22:19:46,409 - WARNING -  * Debugger is active!
+2025-05-30 22:19:46,418 - INFO -  * Debugger PIN: 908-572-493
+2025-05-30 23:33:04,538 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-30 23:33:04,539 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-30 23:33:04,542 - INFO -  * Restarting with stat
+2025-05-30 23:33:06,188 - WARNING -  * Debugger is active!
+2025-05-30 23:33:06,195 - INFO -  * Debugger PIN: 908-572-493
+2025-05-30 23:33:08,180 - INFO - 127.0.0.1 - - [30/May/2025 23:33:08] "GET / HTTP/1.1" 200 -
+2025-05-30 23:33:08,390 - INFO - 127.0.0.1 - - [30/May/2025 23:33:08] "[36mGET /static/internovabg.png HTTP/1.1[0m" 304 -
+2025-05-30 23:33:31,968 - INFO - LINKEDIN URL: https://www.linkedin.com/in/abdul-moeed-khawaja/
+2025-05-30 23:33:43,862 - INFO - NAME: Abdul Moeed Khawaja
+2025-05-30 23:33:43,897 - INFO - 127.0.0.1 - - [30/May/2025 23:33:43] "POST /submit HTTP/1.1" 200 -
+2025-05-30 23:35:05,999 - INFO - 127.0.0.1 - - [30/May/2025 23:35:05] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-30 23:35:43,140 - INFO -  * Detected change in 'C:\\Users\\moeed\\flask_dashboard\\backend\\app.py', reloading
+2025-05-30 23:35:43,224 - INFO -  * Restarting with stat
+2025-05-30 23:35:45,037 - WARNING -  * Debugger is active!
+2025-05-30 23:35:45,048 - INFO -  * Debugger PIN: 908-572-493
+2025-05-30 23:35:48,740 - INFO - 127.0.0.1 - - [30/May/2025 23:35:48] "GET / HTTP/1.1" 200 -
+2025-05-30 23:35:48,956 - INFO - 127.0.0.1 - - [30/May/2025 23:35:48] "[36mGET /static/internovabg.png HTTP/1.1[0m" 304 -
+2025-05-30 23:35:55,895 - INFO - LINKEDIN URL: https://www.linkedin.com/in/abdul-moeed-khawaja/
+2025-05-30 23:35:59,999 - INFO - 127.0.0.1 - - [30/May/2025 23:35:59] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-30 23:36:29,206 - INFO - NAME: Name not found
+2025-05-30 23:36:29,229 - INFO - 127.0.0.1 - - [30/May/2025 23:36:29] "POST /submit HTTP/1.1" 200 -
+2025-05-30 23:37:14,351 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-30 23:37:14,351 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-30 23:37:14,353 - INFO -  * Restarting with stat
+2025-05-30 23:37:16,053 - WARNING -  * Debugger is active!
+2025-05-30 23:37:16,061 - INFO -  * Debugger PIN: 908-572-493
+2025-05-30 23:37:18,276 - INFO - 127.0.0.1 - - [30/May/2025 23:37:18] "GET / HTTP/1.1" 200 -
+2025-05-30 23:37:18,509 - INFO - 127.0.0.1 - - [30/May/2025 23:37:18] "[36mGET /static/internovabg.png HTTP/1.1[0m" 304 -
+2025-05-30 23:37:22,774 - INFO - LINKEDIN URL: https://www.linkedin.com/in/abdul-moeed-khawaja/
+2025-05-30 23:37:26,113 - INFO - 127.0.0.1 - - [30/May/2025 23:37:26] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-30 23:37:33,997 - INFO - NAME: Abdul Moeed Khawaja
+2025-05-30 23:37:34,043 - INFO - 127.0.0.1 - - [30/May/2025 23:37:34] "POST /submit HTTP/1.1" 200 -
+2025-05-30 23:37:58,005 - INFO -  * Detected change in 'C:\\Users\\moeed\\flask_dashboard\\backend\\app.py', reloading
+2025-05-30 23:37:58,105 - INFO -  * Restarting with stat
+2025-05-30 23:38:00,294 - WARNING -  * Debugger is active!
+2025-05-30 23:38:00,307 - INFO -  * Debugger PIN: 908-572-493
+2025-05-30 23:38:00,528 - INFO - 127.0.0.1 - - [30/May/2025 23:38:00] "GET / HTTP/1.1" 200 -
+2025-05-30 23:38:00,597 - INFO - 127.0.0.1 - - [30/May/2025 23:38:00] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-30 23:38:00,743 - INFO - 127.0.0.1 - - [30/May/2025 23:38:00] "[36mGET /static/internovabg.png HTTP/1.1[0m" 304 -
+2025-05-30 23:38:04,853 - INFO - LINKEDIN URL: https://www.linkedin.com/in/abdul-moeed-khawaja/
+2025-05-30 23:38:16,544 - INFO - NAME: Abdul Moeed Khawaja
+2025-05-30 23:38:16,585 - INFO - 127.0.0.1 - - [30/May/2025 23:38:16] "POST /submit HTTP/1.1" 200 -
+2025-05-30 23:40:02,720 - INFO -  * Detected change in 'C:\\Users\\moeed\\flask_dashboard\\backend\\app.py', reloading
+2025-05-30 23:40:02,838 - INFO -  * Restarting with stat
+2025-05-30 23:40:09,588 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-30 23:40:09,589 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-30 23:40:09,592 - INFO -  * Restarting with stat
+2025-05-30 23:40:11,504 - WARNING -  * Debugger is active!
+2025-05-30 23:40:11,512 - INFO -  * Debugger PIN: 908-572-493
+2025-05-30 23:40:11,586 - INFO - 127.0.0.1 - - [30/May/2025 23:40:11] "GET / HTTP/1.1" 200 -
+2025-05-30 23:40:11,777 - INFO - 127.0.0.1 - - [30/May/2025 23:40:11] "[36mGET /static/internovabg.png HTTP/1.1[0m" 304 -
+2025-05-30 23:40:17,920 - INFO - LINKEDIN URL: https://www.linkedin.com/in/abdul-moeed-khawaja/
+2025-05-30 23:40:24,878 - INFO - 127.0.0.1 - - [30/May/2025 23:40:24] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-30 23:40:28,861 - INFO - NAME: Abdul Moeed Khawaja
+2025-05-30 23:40:28,916 - INFO - 127.0.0.1 - - [30/May/2025 23:40:28] "POST /submit HTTP/1.1" 200 -
+2025-05-30 23:41:30,525 - INFO -  * Detected change in 'C:\\Users\\moeed\\flask_dashboard\\backend\\automate_chrome.py', reloading
+2025-05-30 23:41:30,645 - INFO -  * Restarting with stat
+2025-05-30 23:41:36,942 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-30 23:41:36,943 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-30 23:41:36,945 - INFO -  * Restarting with stat
+2025-05-30 23:41:38,897 - WARNING -  * Debugger is active!
+2025-05-30 23:41:38,913 - INFO -  * Debugger PIN: 908-572-493
+2025-05-30 23:41:40,197 - INFO - 127.0.0.1 - - [30/May/2025 23:41:40] "GET / HTTP/1.1" 200 -
+2025-05-30 23:41:40,375 - INFO - 127.0.0.1 - - [30/May/2025 23:41:40] "[36mGET /static/internovabg.png HTTP/1.1[0m" 304 -
+2025-05-30 23:41:44,383 - INFO - LINKEDIN URL: https://www.linkedin.com/in/abdul-moeed-khawaja/
+2025-05-30 23:41:55,400 - INFO - NAME: Abdul Moeed Khawaja
+2025-05-30 23:41:55,444 - INFO - 127.0.0.1 - - [30/May/2025 23:41:55] "POST /submit HTTP/1.1" 200 -
+2025-05-30 23:47:02,788 - INFO -  * Detected change in 'C:\\Users\\moeed\\flask_dashboard\\backend\\app.py', reloading
+2025-05-30 23:47:02,875 - INFO -  * Restarting with stat
+2025-05-30 23:47:04,232 - WARNING -  * Debugger is active!
+2025-05-30 23:47:04,239 - INFO -  * Debugger PIN: 908-572-493
+2025-05-31 00:04:21,648 - INFO -  * Detected change in 'C:\\Users\\moeed\\flask_dashboard\\backend\\automate_chrome.py', reloading
+2025-05-31 00:04:21,723 - INFO -  * Restarting with stat
+2025-05-31 00:04:22,792 - WARNING -  * Debugger is active!
+2025-05-31 00:04:22,797 - INFO -  * Debugger PIN: 908-572-493
+2025-05-31 00:04:23,967 - INFO - 127.0.0.1 - - [31/May/2025 00:04:23] "GET / HTTP/1.1" 200 -
+2025-05-31 00:04:24,097 - INFO - 127.0.0.1 - - [31/May/2025 00:04:24] "[36mGET /static/internovabg.png HTTP/1.1[0m" 304 -
+2025-05-31 00:04:30,214 - INFO - LINKEDIN URL: https://www.linkedin.com/in/abdul-moeed-khawaja/
+2025-05-31 00:04:40,795 - INFO - NAME: Abdul Moeed Khawaja
+2025-05-31 00:04:40,838 - INFO - 127.0.0.1 - - [31/May/2025 00:04:40] "POST /submit HTTP/1.1" 200 -
+2025-05-31 00:07:06,920 - INFO -  * Detected change in 'C:\\Users\\moeed\\flask_dashboard\\backend\\automate_chrome.py', reloading
+2025-05-31 00:07:07,009 - INFO -  * Restarting with stat
+2025-05-31 00:07:08,178 - WARNING -  * Debugger is active!
+2025-05-31 00:07:08,184 - INFO -  * Debugger PIN: 908-572-493
+2025-05-31 00:07:12,982 - INFO - 127.0.0.1 - - [31/May/2025 00:07:12] "GET / HTTP/1.1" 200 -
+2025-05-31 00:07:13,104 - INFO - 127.0.0.1 - - [31/May/2025 00:07:13] "[36mGET /static/internovabg.png HTTP/1.1[0m" 304 -
+2025-05-31 00:07:17,459 - INFO - LINKEDIN URL: https://www.linkedin.com/in/abdul-moeed-khawaja/
+2025-05-31 00:07:27,995 - INFO - NAME: Abdul Moeed Khawaja
+2025-05-31 00:07:28,023 - INFO - 127.0.0.1 - - [31/May/2025 00:07:28] "POST /submit HTTP/1.1" 200 -
+2025-05-31 00:11:34,725 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-31 00:11:34,726 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-31 00:11:34,727 - INFO -  * Restarting with stat
+2025-05-31 00:11:35,795 - WARNING -  * Debugger is active!
+2025-05-31 00:11:35,800 - INFO -  * Debugger PIN: 908-572-493
+2025-05-31 00:11:37,133 - INFO - 127.0.0.1 - - [31/May/2025 00:11:37] "GET / HTTP/1.1" 200 -
+2025-05-31 00:11:37,243 - INFO - 127.0.0.1 - - [31/May/2025 00:11:37] "[36mGET /static/internovabg.png HTTP/1.1[0m" 304 -
+2025-05-31 00:11:43,659 - INFO - LINKEDIN URL: https://www.linkedin.com/in/abdul-moeed-khawaja/
+2025-05-31 00:11:54,310 - INFO - NAME: Abdul Moeed Khawaja
+2025-05-31 00:11:54,351 - INFO - 127.0.0.1 - - [31/May/2025 00:11:54] "POST /submit HTTP/1.1" 200 -
+2025-05-31 00:19:37,647 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-31 00:19:37,647 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-31 00:19:37,650 - INFO -  * Restarting with stat
+2025-05-31 00:19:38,937 - WARNING -  * Debugger is active!
+2025-05-31 00:19:38,941 - INFO -  * Debugger PIN: 908-572-493
+2025-05-31 00:19:48,167 - INFO - 127.0.0.1 - - [31/May/2025 00:19:48] "GET / HTTP/1.1" 200 -
+2025-05-31 00:19:48,266 - INFO - 127.0.0.1 - - [31/May/2025 00:19:48] "[36mGET /static/internovabg.png HTTP/1.1[0m" 304 -
+2025-05-31 00:19:53,252 - INFO - LINKEDIN URL: https://www.linkedin.com/in/abdul-moeed-khawaja/
+2025-05-31 00:20:03,733 - INFO - NAME: Abdul Moeed Khawaja
+2025-05-31 00:20:03,756 - INFO - 127.0.0.1 - - [31/May/2025 00:20:03] "POST /submit HTTP/1.1" 200 -
+2025-05-31 00:20:56,050 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-31 00:20:56,050 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-31 00:20:56,053 - INFO -  * Restarting with stat
+2025-05-31 00:20:57,052 - WARNING -  * Debugger is active!
+2025-05-31 00:20:57,058 - INFO -  * Debugger PIN: 908-572-493
+2025-05-31 00:21:01,055 - INFO - 127.0.0.1 - - [31/May/2025 00:21:01] "GET / HTTP/1.1" 200 -
+2025-05-31 00:21:01,178 - INFO - 127.0.0.1 - - [31/May/2025 00:21:01] "[36mGET /static/internovabg.png HTTP/1.1[0m" 304 -
+2025-05-31 00:21:06,558 - INFO - LINKEDIN URL: https://www.linkedin.com/in/abdul-moeed-khawaja/
+2025-05-31 00:21:17,029 - INFO - NAME: Abdul Moeed Khawaja
+2025-05-31 00:21:17,070 - INFO - 127.0.0.1 - - [31/May/2025 00:21:17] "POST /submit HTTP/1.1" 200 -
+2025-05-31 00:23:56,671 - INFO -  * Detected change in 'C:\\Users\\moeed\\flask_dashboard\\backend\\automate_chrome.py', reloading
+2025-05-31 00:23:56,733 - INFO -  * Restarting with stat
+2025-05-31 00:23:57,767 - WARNING -  * Debugger is active!
+2025-05-31 00:23:57,771 - INFO -  * Debugger PIN: 908-572-493
+2025-05-31 00:23:59,671 - INFO - 127.0.0.1 - - [31/May/2025 00:23:59] "GET / HTTP/1.1" 200 -
+2025-05-31 00:23:59,786 - INFO - 127.0.0.1 - - [31/May/2025 00:23:59] "[36mGET /static/internovabg.png HTTP/1.1[0m" 304 -
+2025-05-31 00:24:05,231 - INFO - LINKEDIN URL: https://www.linkedin.com/in/abdul-moeed-khawaja/
+2025-05-31 00:24:15,790 - INFO - NAME: Abdul Moeed Khawaja
+2025-05-31 00:24:15,833 - INFO - 127.0.0.1 - - [31/May/2025 00:24:15] "POST /submit HTTP/1.1" 200 -
+2025-05-31 00:27:44,544 - INFO -  * Detected change in 'C:\\Users\\moeed\\flask_dashboard\\backend\\automate_chrome.py', reloading
+2025-05-31 00:27:44,628 - INFO -  * Restarting with stat
+2025-05-31 00:27:45,558 - WARNING -  * Debugger is active!
+2025-05-31 00:27:45,566 - INFO -  * Debugger PIN: 908-572-493
+2025-05-31 00:28:34,463 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-31 00:28:34,463 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-31 00:28:34,465 - INFO -  * Restarting with stat
+2025-05-31 00:28:35,413 - WARNING -  * Debugger is active!
+2025-05-31 00:28:35,417 - INFO -  * Debugger PIN: 908-572-493
+2025-05-31 00:30:11,998 - INFO -  * Detected change in 'C:\\Users\\moeed\\flask_dashboard\\backend\\automate_chrome.py', reloading
+2025-05-31 00:30:12,130 - INFO -  * Restarting with stat
+2025-05-31 00:30:13,184 - WARNING -  * Debugger is active!
+2025-05-31 00:30:13,188 - INFO -  * Debugger PIN: 908-572-493
+2025-05-31 00:30:16,053 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-31 00:30:16,053 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-31 00:30:16,055 - INFO -  * Restarting with stat
+2025-05-31 00:30:16,975 - WARNING -  * Debugger is active!
+2025-05-31 00:30:16,979 - INFO -  * Debugger PIN: 908-572-493
+2025-05-31 00:30:29,442 - INFO - 127.0.0.1 - - [31/May/2025 00:30:29] "GET / HTTP/1.1" 200 -
+2025-05-31 00:30:29,565 - INFO - 127.0.0.1 - - [31/May/2025 00:30:29] "[36mGET /static/internovabg.png HTTP/1.1[0m" 304 -
+2025-05-31 00:30:36,983 - INFO - LINKEDIN URL: https://www.linkedin.com/in/abdul-moeed-khawaja/
+2025-05-31 00:30:47,813 - INFO - NAME: Abdul Moeed Khawaja
+2025-05-31 00:30:47,856 - INFO - 127.0.0.1 - - [31/May/2025 00:30:47] "POST /submit HTTP/1.1" 200 -
+2025-05-31 00:32:07,924 - INFO - 127.0.0.1 - - [31/May/2025 00:32:07] "GET / HTTP/1.1" 200 -
+2025-05-31 00:32:07,950 - INFO - 127.0.0.1 - - [31/May/2025 00:32:07] "[36mGET /static/internovabg.png HTTP/1.1[0m" 304 -
+2025-05-31 00:32:26,457 - INFO - LINKEDIN URL: https://www.linkedin.com/in/maham-nk/
+2025-05-31 00:32:37,047 - INFO - NAME: Maham Nadeem
+2025-05-31 00:32:37,088 - INFO - 127.0.0.1 - - [31/May/2025 00:32:37] "POST /submit HTTP/1.1" 200 -
+2025-05-31 11:30:08,230 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-31 11:30:08,230 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-31 11:30:08,240 - INFO -  * Restarting with stat
+2025-05-31 11:30:11,054 - WARNING -  * Debugger is active!
+2025-05-31 11:30:11,062 - INFO -  * Debugger PIN: 908-572-493
+2025-05-31 11:31:01,301 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-31 11:31:01,301 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-31 11:31:01,305 - INFO -  * Restarting with stat
+2025-05-31 11:31:03,040 - WARNING -  * Debugger is active!
+2025-05-31 11:31:03,050 - INFO -  * Debugger PIN: 908-572-493
+2025-05-31 11:31:06,044 - INFO - 127.0.0.1 - - [31/May/2025 11:31:06] "GET / HTTP/1.1" 200 -
+2025-05-31 11:31:06,355 - INFO - 127.0.0.1 - - [31/May/2025 11:31:06] "[36mGET /static/internovabg.png HTTP/1.1[0m" 304 -
+2025-05-31 11:31:06,377 - INFO - 127.0.0.1 - - [31/May/2025 11:31:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-31 11:31:18,703 - INFO - LINKEDIN URL: https://www.linkedin.com/in/abdul-moeed-khawaja/
+2025-05-31 11:31:30,539 - INFO - NAME: Abdul Moeed Khawaja
+2025-05-31 11:31:30,579 - INFO - 127.0.0.1 - - [31/May/2025 11:31:30] "POST /submit HTTP/1.1" 200 -
+2025-05-31 11:36:51,768 - INFO - 127.0.0.1 - - [31/May/2025 11:36:51] "GET / HTTP/1.1" 200 -
+2025-05-31 11:36:51,796 - INFO - 127.0.0.1 - - [31/May/2025 11:36:51] "[36mGET /static/internovabg.png HTTP/1.1[0m" 304 -
+2025-05-31 11:36:56,608 - INFO - LINKEDIN URL: https://www.linkedin.com/in/mohammadshehryarsohail/
+2025-05-31 11:37:07,723 - INFO - NAME: Mohammad Shehryar Sohail
+2025-05-31 11:37:07,760 - INFO - 127.0.0.1 - - [31/May/2025 11:37:07] "POST /submit HTTP/1.1" 200 -
+2025-05-31 11:39:17,303 - INFO - LINKEDIN URL: https://www.linkedin.com/in/mohammadshehryarsohail/
+2025-05-31 11:39:28,025 - INFO - NAME: Mohammad Shehryar Sohail
+2025-05-31 11:39:28,077 - INFO - 127.0.0.1 - - [31/May/2025 11:39:28] "POST /submit HTTP/1.1" 200 -
+2025-05-31 11:43:35,383 - INFO - LINKEDIN URL: https://www.linkedin.com/in/mohammadshehryarsohail/
+2025-05-31 11:43:49,250 - INFO - NAME: Mohammad Shehryar Sohail
+2025-05-31 11:43:49,313 - INFO - 127.0.0.1 - - [31/May/2025 11:43:49] "POST /submit HTTP/1.1" 200 -
+2025-05-31 11:44:37,575 - INFO - 127.0.0.1 - - [31/May/2025 11:44:37] "GET / HTTP/1.1" 200 -
+2025-05-31 11:44:37,632 - INFO - 127.0.0.1 - - [31/May/2025 11:44:37] "[36mGET /static/internovabg.png HTTP/1.1[0m" 304 -
+2025-05-31 11:45:08,568 - INFO - LINKEDIN URL: https://www.linkedin.com/in/syed-noumanali/
+2025-05-31 11:45:19,266 - INFO - NAME: Syed Nouman Ali Shah
+2025-05-31 11:45:19,318 - INFO - 127.0.0.1 - - [31/May/2025 11:45:19] "POST /submit HTTP/1.1" 200 -
+2025-05-31 11:53:53,475 - INFO - LINKEDIN URL: https://www.linkedin.com/in/ali-haider-shah-0ab25b278/
+2025-05-31 11:54:04,171 - INFO - NAME: Ali Haider Shah
+2025-05-31 11:54:04,202 - INFO - 127.0.0.1 - - [31/May/2025 11:54:04] "POST /submit HTTP/1.1" 200 -
+2025-05-31 12:00:21,332 - INFO - LINKEDIN URL: https://www.linkedin.com/in/ameer-hamza-t/
+2025-05-31 12:00:32,080 - INFO - NAME: AMEER HAMZA
+2025-05-31 12:00:32,121 - INFO - 127.0.0.1 - - [31/May/2025 12:00:32] "POST /submit HTTP/1.1" 200 -
+2025-05-31 12:08:48,134 - INFO - LINKEDIN URL: https://www.linkedin.com/in/abdul-rehman-tanwir-khan-794158208/
+2025-05-31 12:08:58,792 - INFO - NAME: Abdul Rehman Tanwir Khan
+2025-05-31 12:08:58,832 - INFO - 127.0.0.1 - - [31/May/2025 12:08:58] "POST /submit HTTP/1.1" 200 -
+2025-05-31 12:16:44,081 - INFO - LINKEDIN URL: https://www.linkedin.com/in/abdul-rehman-tanwir-khan-794158208/
+2025-05-31 12:16:55,012 - INFO - NAME: Abdul Rehman Tanwir Khan
+2025-05-31 12:16:55,040 - INFO - 127.0.0.1 - - [31/May/2025 12:16:55] "POST /submit HTTP/1.1" 200 -
+2025-05-31 12:19:13,862 - INFO - LINKEDIN URL: https://www.linkedin.com/in/nabeelahsan27/
+2025-05-31 12:19:24,355 - INFO - NAME: Nabeel Ahsan
+2025-05-31 12:19:24,386 - INFO - 127.0.0.1 - - [31/May/2025 12:19:24] "POST /submit HTTP/1.1" 200 -
+2025-05-31 12:20:30,079 - INFO - 127.0.0.1 - - [31/May/2025 12:20:30] "GET / HTTP/1.1" 200 -
+2025-05-31 12:20:30,132 - INFO - 127.0.0.1 - - [31/May/2025 12:20:30] "[36mGET /static/internovabg.png HTTP/1.1[0m" 304 -
+2025-05-31 12:28:46,891 - INFO - LINKEDIN URL: https://www.linkedin.com/in/shafaat-ahmed-bazaz-ph-d-france-587b691b/https://www.linkedin.com/in/shafaat-ahmed-bazaz-ph-d-france-587b691b/
+2025-05-31 12:28:57,396 - INFO - NAME: Name not found
+2025-05-31 12:28:57,419 - INFO - 127.0.0.1 - - [31/May/2025 12:28:57] "POST /submit HTTP/1.1" 200 -
+2025-05-31 12:38:12,360 - INFO - LINKEDIN URL: https://www.linkedin.com/in/nimra-a-0695851a2/
+2025-05-31 12:38:23,362 - INFO - NAME: Nimra A.
+2025-05-31 12:38:23,408 - INFO - 127.0.0.1 - - [31/May/2025 12:38:23] "POST /submit HTTP/1.1" 200 -
+2025-05-31 12:51:09,537 - INFO - 127.0.0.1 - - [31/May/2025 12:51:09] "GET / HTTP/1.1" 200 -
+2025-05-31 12:51:09,601 - INFO - 127.0.0.1 - - [31/May/2025 12:51:09] "[36mGET /static/internovabg.png HTTP/1.1[0m" 304 -
+2025-05-31 12:51:56,067 - INFO - LINKEDIN URL: https://www.linkedin.com/in/unazir/
+2025-05-31 12:52:07,402 - INFO - NAME: Usman Nazir
+2025-05-31 12:52:07,476 - INFO - 127.0.0.1 - - [31/May/2025 12:52:07] "POST /submit HTTP/1.1" 200 -
+2025-05-31 13:07:43,107 - INFO - LINKEDIN URL: https://www.linkedin.com/in/khawaja-subhan-ahmad/
+2025-05-31 13:07:53,859 - INFO - NAME: Khawaja Subhan Ahmad
+2025-05-31 13:07:53,895 - INFO - 127.0.0.1 - - [31/May/2025 13:07:53] "POST /submit HTTP/1.1" 200 -
+2025-05-31 13:08:36,507 - INFO - LINKEDIN URL: https://www.linkedin.com/in/khawaja-subhan-ahmad/
+2025-05-31 13:08:47,583 - INFO - NAME: Khawaja Subhan Ahmad
+2025-05-31 13:08:47,601 - INFO - 127.0.0.1 - - [31/May/2025 13:08:47] "POST /submit HTTP/1.1" 200 -
+2025-05-31 13:35:56,675 - INFO - LINKEDIN URL: https://www.linkedin.com/in/muhammad-alyan-bukhari-6b36a4247/
+2025-05-31 13:36:07,634 - INFO - NAME: Muhammad Alyan Bukhari
+2025-05-31 13:36:07,668 - INFO - 127.0.0.1 - - [31/May/2025 13:36:07] "POST /submit HTTP/1.1" 200 -
+2025-05-31 13:36:31,154 - INFO - 127.0.0.1 - - [31/May/2025 13:36:31] "GET / HTTP/1.1" 200 -
+2025-05-31 13:36:31,178 - INFO - 127.0.0.1 - - [31/May/2025 13:36:31] "[36mGET /static/internovabg.png HTTP/1.1[0m" 304 -
+2025-05-31 13:36:35,744 - INFO - LINKEDIN URL: https://www.linkedin.com/in/muhammad-alyan-bukhari-6b36a4247/
+2025-05-31 13:36:46,217 - INFO - NAME: Muhammad Alyan Bukhari
+2025-05-31 13:36:46,235 - INFO - 127.0.0.1 - - [31/May/2025 13:36:46] "POST /submit HTTP/1.1" 200 -
+2025-05-31 13:37:18,943 - INFO - LINKEDIN URL: https://www.linkedin.com/in/muhammad-alyan-bukhari-6b36a4247/
+2025-05-31 13:37:29,487 - INFO - NAME: Muhammad Alyan Bukhari
+2025-05-31 13:37:29,505 - INFO - 127.0.0.1 - - [31/May/2025 13:37:29] "POST /submit HTTP/1.1" 200 -
+2025-05-31 13:37:55,623 - INFO - 127.0.0.1 - - [31/May/2025 13:37:55] "GET / HTTP/1.1" 200 -
+2025-05-31 13:37:55,647 - INFO - 127.0.0.1 - - [31/May/2025 13:37:55] "[36mGET /static/internovabg.png HTTP/1.1[0m" 304 -
+2025-05-31 13:38:02,009 - INFO - LINKEDIN URL: https://www.linkedin.com/in/mohammadshehryarsohail/
+2025-05-31 13:38:12,477 - INFO - NAME: Mohammad Shehryar Sohail
+2025-05-31 13:38:12,513 - INFO - 127.0.0.1 - - [31/May/2025 13:38:12] "POST /submit HTTP/1.1" 200 -
+2025-05-31 13:38:54,024 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-31 13:38:54,024 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-31 13:38:54,026 - INFO -  * Restarting with stat
+2025-05-31 13:38:55,023 - WARNING -  * Debugger is active!
+2025-05-31 13:38:55,031 - INFO -  * Debugger PIN: 908-572-493
+2025-05-31 13:38:56,403 - INFO - 127.0.0.1 - - [31/May/2025 13:38:56] "GET / HTTP/1.1" 200 -
+2025-05-31 13:38:56,515 - INFO - 127.0.0.1 - - [31/May/2025 13:38:56] "[36mGET /static/internovabg.png HTTP/1.1[0m" 304 -
+2025-05-31 13:39:02,645 - INFO - LINKEDIN URL: https://www.linkedin.com/in/abdul-moeed-khawaja/
+2025-05-31 13:39:13,200 - INFO - NAME: Abdul Moeed Khawaja
+2025-05-31 13:39:13,228 - INFO - 127.0.0.1 - - [31/May/2025 13:39:13] "POST /submit HTTP/1.1" 200 -
+2025-05-31 13:40:13,894 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-31 13:40:13,895 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-31 13:40:13,898 - INFO -  * Restarting with stat
+2025-05-31 13:40:15,209 - WARNING -  * Debugger is active!
+2025-05-31 13:40:15,215 - INFO -  * Debugger PIN: 908-572-493
+2025-05-31 13:40:17,228 - INFO - 127.0.0.1 - - [31/May/2025 13:40:17] "GET / HTTP/1.1" 200 -
+2025-05-31 13:40:17,350 - INFO - 127.0.0.1 - - [31/May/2025 13:40:17] "[36mGET /static/internovabg.png HTTP/1.1[0m" 304 -
+2025-05-31 13:40:25,760 - INFO - LINKEDIN URL: https://www.linkedin.com/in/abdul-moeed-khawaja/
+2025-05-31 13:40:36,352 - INFO - NAME: Abdul Moeed Khawaja
+2025-05-31 13:40:36,386 - INFO - 127.0.0.1 - - [31/May/2025 13:40:36] "POST /submit HTTP/1.1" 200 -
+2025-05-31 13:42:47,147 - INFO - 127.0.0.1 - - [31/May/2025 13:42:47] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-31 13:45:37,131 - INFO - LINKEDIN URL: https://www.linkedin.com/in/zeeshanjamil/?originalSubdomain=pk
+2025-05-31 13:45:47,909 - INFO - NAME: Zeeshan Jamil
+2025-05-31 13:45:47,948 - INFO - 127.0.0.1 - - [31/May/2025 13:45:47] "POST /submit HTTP/1.1" 200 -
+2025-05-31 14:15:32,958 - INFO - LINKEDIN URL: https://www.linkedin.com/in/zeeshanjamil/?originalSubdomain=pk
+2025-05-31 14:15:43,443 - INFO - NAME: Zeeshan Jamil
+2025-05-31 14:15:43,473 - INFO - 127.0.0.1 - - [31/May/2025 14:15:43] "POST /submit HTTP/1.1" 200 -
+2025-05-31 14:16:49,937 - INFO - 127.0.0.1 - - [31/May/2025 14:16:49] "GET / HTTP/1.1" 200 -
+2025-05-31 14:16:49,979 - INFO - 127.0.0.1 - - [31/May/2025 14:16:49] "[36mGET /static/internovabg.png HTTP/1.1[0m" 304 -
+2025-05-31 14:26:39,337 - INFO - LINKEDIN URL: https://www.linkedin.com/in/abdul-moeed-khawaja/
+2025-05-31 14:26:53,097 - INFO - NAME: Abdul Moeed Khawaja
+2025-05-31 14:26:53,142 - INFO - 127.0.0.1 - - [31/May/2025 14:26:53] "POST /submit HTTP/1.1" 200 -
+2025-05-31 14:40:40,022 - INFO - LINKEDIN URL: https://www.linkedin.com/in/zeeshanjamil/?originalSubdomain=pk
+2025-05-31 14:40:52,185 - INFO - NAME: Zeeshan Jamil
+2025-05-31 14:40:52,219 - INFO - 127.0.0.1 - - [31/May/2025 14:40:52] "POST /submit HTTP/1.1" 200 -
+2025-05-31 15:00:00,467 - INFO - LINKEDIN URL: https://www.linkedin.com/in/zeeshanjamil/?originalSubdomain=pk
+2025-05-31 15:00:12,418 - INFO - NAME: Zeeshan Jamil
+2025-05-31 15:00:12,457 - INFO - 127.0.0.1 - - [31/May/2025 15:00:12] "POST /submit HTTP/1.1" 200 -
+2025-05-31 15:00:59,145 - INFO - LINKEDIN URL: https://www.linkedin.com/in/muhammad-talha-38364426b/
+2025-05-31 15:01:11,235 - INFO - NAME: Muhammad Talha
+2025-05-31 15:01:11,277 - INFO - 127.0.0.1 - - [31/May/2025 15:01:11] "POST /submit HTTP/1.1" 200 -
+2025-05-31 15:02:38,764 - INFO - LINKEDIN URL: https://www.linkedin.com/in/natash-ali-mian-888367a/
+2025-05-31 15:02:51,341 - INFO - NAME: Natash Ali Mian
+2025-05-31 15:02:51,405 - INFO - 127.0.0.1 - - [31/May/2025 15:02:51] "POST /submit HTTP/1.1" 200 -
+2025-05-31 15:14:32,858 - INFO - LINKEDIN URL: https://www.linkedin.com/in/faizan-bin-arshad/
+2025-05-31 15:14:46,924 - INFO - NAME: Faizan Bin Arshad
+2025-05-31 15:14:46,994 - INFO - 127.0.0.1 - - [31/May/2025 15:14:46] "POST /submit HTTP/1.1" 200 -
+2025-05-31 15:20:47,315 - INFO - LINKEDIN URL: https://www.linkedin.com/in/syed-noumanali/
+2025-05-31 15:20:58,356 - INFO - NAME: Syed Nouman Ali Shah
+2025-05-31 15:20:58,428 - INFO - 127.0.0.1 - - [31/May/2025 15:20:58] "POST /submit HTTP/1.1" 200 -
+2025-05-31 15:23:08,948 - INFO - LINKEDIN URL: https://www.linkedin.com/in/ibraheemomer/
+2025-05-31 15:23:25,398 - INFO - NAME: Ibraheem Omer
+2025-05-31 15:23:25,488 - INFO - 127.0.0.1 - - [31/May/2025 15:23:25] "POST /submit HTTP/1.1" 200 -
+2025-05-31 15:40:34,032 - INFO - LINKEDIN URL: https://www.linkedin.com/in/amna-mazhar-43a47b2a4/
+2025-05-31 15:40:45,740 - INFO - NAME: Amna Mazhar
+2025-05-31 15:40:45,802 - INFO - 127.0.0.1 - - [31/May/2025 15:40:45] "POST /submit HTTP/1.1" 200 -
+2025-05-31 16:07:24,497 - INFO - LINKEDIN URL: https://www.linkedin.com/in/imranriaz/
+2025-05-31 16:07:38,443 - INFO - NAME: Imran Riaz
+2025-05-31 16:07:38,581 - INFO - 127.0.0.1 - - [31/May/2025 16:07:38] "POST /submit HTTP/1.1" 200 -
+2025-05-31 16:28:10,889 - INFO - LINKEDIN URL: https://www.linkedin.com/in/maryam-rashid-4143b2356/
+2025-05-31 16:28:22,518 - INFO - NAME: Maryam Rashid
+2025-05-31 16:28:22,562 - INFO - 127.0.0.1 - - [31/May/2025 16:28:22] "POST /submit HTTP/1.1" 200 -
+2025-05-31 17:06:36,976 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-31 17:06:36,977 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-31 17:06:36,981 - INFO -  * Restarting with stat
+2025-05-31 17:06:39,986 - WARNING -  * Debugger is active!
+2025-05-31 17:06:39,999 - INFO -  * Debugger PIN: 908-572-493
+2025-05-31 17:06:40,085 - INFO - 127.0.0.1 - - [31/May/2025 17:06:40] "GET / HTTP/1.1" 200 -
+2025-05-31 17:06:40,378 - INFO - 127.0.0.1 - - [31/May/2025 17:06:40] "[36mGET /static/internovabg.png HTTP/1.1[0m" 304 -
+2025-05-31 17:08:47,660 - INFO - LINKEDIN URL: https://www.linkedin.com/in/mohammadshehryarsohail/
+2025-05-31 17:08:58,155 - INFO - NAME: Mohammad Shehryar Sohail
+2025-05-31 17:08:58,211 - INFO - 127.0.0.1 - - [31/May/2025 17:08:58] "POST /submit HTTP/1.1" 200 -
+2025-06-01 22:44:33,720 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-01 22:44:33,720 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-01 22:44:33,727 - INFO -  * Restarting with stat
+2025-06-01 22:44:35,551 - WARNING -  * Debugger is active!
+2025-06-01 22:44:35,563 - INFO -  * Debugger PIN: 908-572-493
+2025-06-01 22:44:37,282 - INFO - 127.0.0.1 - - [01/Jun/2025 22:44:37] "GET / HTTP/1.1" 200 -
+2025-06-01 22:44:37,463 - INFO - 127.0.0.1 - - [01/Jun/2025 22:44:37] "[36mGET /static/internovabg.png HTTP/1.1[0m" 304 -
+2025-06-01 22:47:26,442 - INFO - LINKEDIN URL: https://www.linkedin.com/in/abdul-moeed-khawaja/
+2025-06-01 22:47:36,795 - INFO - 127.0.0.1 - - [01/Jun/2025 22:47:36] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-06-01 22:47:46,247 - INFO - NAME: Abdul Moeed Khawaja
+2025-06-01 22:47:47,043 - INFO - 127.0.0.1 - - [01/Jun/2025 22:47:47] "POST /submit HTTP/1.1" 200 -
+2025-06-01 22:49:14,785 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-01 22:49:14,786 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-01 22:49:14,795 - INFO -  * Restarting with stat
+2025-06-01 22:49:23,075 - WARNING -  * Debugger is active!
+2025-06-01 22:49:23,101 - INFO -  * Debugger PIN: 908-572-493
+2025-06-01 22:49:23,290 - INFO - LINKEDIN URL: https://www.linkedin.com/in/abdul-moeed-khawaja/
+2025-06-01 22:49:35,536 - INFO - NAME: Abdul Moeed Khawaja
+2025-06-01 22:49:35,911 - INFO - 127.0.0.1 - - [01/Jun/2025 22:49:35] "POST /submit HTTP/1.1" 200 -
+2025-06-01 22:51:52,835 - INFO - LINKEDIN URL: https://www.linkedin.com/in/mohammadshehryarsohail/
+2025-06-01 22:52:03,936 - INFO - 127.0.0.1 - - [01/Jun/2025 22:52:03] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-06-01 22:52:07,416 - INFO - NAME: Name not found
+2025-06-01 22:52:07,822 - INFO - 127.0.0.1 - - [01/Jun/2025 22:52:07] "POST /submit HTTP/1.1" 200 -
+2025-06-02 19:13:48,994 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-02 19:13:48,995 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-02 19:13:48,998 - INFO -  * Restarting with stat
+2025-06-02 19:13:50,768 - WARNING -  * Debugger is active!
+2025-06-02 19:13:50,776 - INFO -  * Debugger PIN: 908-572-493
+2025-06-02 19:13:51,069 - INFO - 127.0.0.1 - - [02/Jun/2025 19:13:51] "GET / HTTP/1.1" 200 -
+2025-06-02 19:13:51,312 - INFO - 127.0.0.1 - - [02/Jun/2025 19:13:51] "[36mGET /static/internovabg.png HTTP/1.1[0m" 304 -
+2025-06-02 19:14:44,181 - INFO - LINKEDIN URL: https://www.linkedin.com/in/mohammadshehryarsohail/
+2025-06-02 19:14:57,504 - INFO - NAME: Mohammad Shehryar Sohail
+2025-06-02 19:14:57,562 - INFO - 127.0.0.1 - - [02/Jun/2025 19:14:57] "POST /submit HTTP/1.1" 200 -
+2025-06-06 21:53:35,426 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-06 21:53:35,427 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-06 21:53:35,430 - INFO -  * Restarting with stat
+2025-06-06 21:53:36,415 - WARNING -  * Debugger is active!
+2025-06-06 21:53:36,421 - INFO -  * Debugger PIN: 801-486-551
+2025-06-06 21:53:41,553 - INFO - 127.0.0.1 - - [06/Jun/2025 21:53:41] "GET / HTTP/1.1" 200 -
+2025-06-06 21:53:41,700 - INFO - 127.0.0.1 - - [06/Jun/2025 21:53:41] "[36mGET /static/internovabg.png HTTP/1.1[0m" 304 -
+2025-06-06 21:53:41,719 - INFO - 127.0.0.1 - - [06/Jun/2025 21:53:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-06 21:54:25,690 - INFO - LINKEDIN URL: https://www.linkedin.com/in/danyalhassan/
+2025-06-06 21:54:37,409 - INFO - NAME: Danyal Hassan
+2025-06-06 21:54:37,428 - INFO - 127.0.0.1 - - [06/Jun/2025 21:54:37] "POST /submit HTTP/1.1" 200 -
+2025-06-06 21:54:43,160 - INFO - 127.0.0.1 - - [06/Jun/2025 21:54:43] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-06-06 21:55:18,902 - INFO - LINKEDIN URL: https://www.linkedin.com/in/danyalhassan/
+2025-06-06 21:55:29,634 - INFO - NAME: Danyal Hassan
+2025-06-06 21:55:29,667 - INFO - 127.0.0.1 - - [06/Jun/2025 21:55:29] "POST /submit HTTP/1.1" 200 -
+2025-06-06 21:57:10,977 - INFO - LINKEDIN URL: https://www.linkedin.com/in/danyalhassan/
+2025-06-06 21:57:21,569 - INFO - NAME: Danyal Hassan
+2025-06-06 21:57:21,599 - INFO - 127.0.0.1 - - [06/Jun/2025 21:57:21] "POST /submit HTTP/1.1" 200 -
